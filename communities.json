@@ -667,6 +667,12 @@
       "githubUrl": "https://github.com/Mudlet/Mudlet"
     },
     {
+      "logo": "scummvm.svg",
+      "title": "ScummVM",
+      "inviteCode": "5D8yTtF",
+      "githubUrl": "https://github.com/scummvm/scummvm"
+    },
+    {
       "logo": "nestjs.svg",
       "title": "NestJS",
       "quote": "Discord both strengthened our community and dramatically improved discussion amongst the developers.",
